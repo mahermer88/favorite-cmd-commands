@@ -1,0 +1,8 @@
+touch command
+to create new empty files, also can create any number of files simultaneously.
+
+cat command
+to display the contents of a file , even the Contents of multiple files.
+
+Git Status Command
+Used to know the status of the working, shows the state of all the files which are untracked by Git, staged or unstaged.
