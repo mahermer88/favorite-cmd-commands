@@ -6,3 +6,6 @@ to display the contents of a file , even the Contents of multiple files.
 
 Git Status Command
 Used to know the status of the working, shows the state of all the files which are untracked by Git, staged or unstaged.
+
+Git pull command
+Incorporates changes from a remote repository into the current branch. 
